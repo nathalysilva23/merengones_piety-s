@@ -3,7 +3,6 @@ import Cardm from "./Cardm";
 
 import image1 from "../assetsm/image1.jpeg";
 import image2 from '../assetsm/image2.jpeg'
-import image3 from '../assetsm/image3.jpeg'
 import image4 from '../assetsm/image4.jpeg'
 import image5 from '../assetsm/image5.jpeg'
 import image6 from '../assetsm/image6.jpeg'

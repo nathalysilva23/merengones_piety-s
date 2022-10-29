@@ -17,11 +17,11 @@ const Redes = () => {
          <br/> 
 
 
-      <a className="face" href="https://www.facebook.com/profile.php?id=100049350886934"> <img src={facebook} height="200px" width="200px"/> </a>  &nbsp; &nbsp; &nbsp; &nbsp; 
+      <a className="face" href="https://www.facebook.com/profile.php?id=100049350886934"> <img alt="f"src={facebook} height="200px" width="200px"/> </a>  &nbsp; &nbsp; &nbsp; &nbsp; 
       
-      <a className="face" href="https://instagram.com/merengonespietys?igshid=YmMyMTA2M2Y="><img src={instagram} height="200px" width="200px"/> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
+      <a className="face" href="https://instagram.com/merengonespietys?igshid=YmMyMTA2M2Y="><img alt="f"src={instagram} height="200px" width="200px"/> </a> &nbsp; &nbsp; &nbsp; &nbsp; 
 
-      <a className="face" href="https://wa.me/573114026317"><img src={whatsapp} height="200px" width="200px" /> </a> &nbsp; &nbsp; &nbsp; &nbsp;
+      <a className="face" href="https://wa.me/573114026317"><img alt="f"src={whatsapp} height="200px" width="200px" /> </a> &nbsp; &nbsp; &nbsp; &nbsp;
  
  
       <br/> <br/>
@@ -30,7 +30,7 @@ const Redes = () => {
       <br/> 
          
       <div className="imagen1">
-        <img src={mere} height="250px" width="250px"/>
+        <img alt="o" src={mere} height="250px" width="250px"/>
       </div>
   </div>
   );

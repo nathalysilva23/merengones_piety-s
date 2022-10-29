@@ -12,7 +12,7 @@ const Carta= () => {
        <p class="card-text lead fs-2"> <center><font color="white">¡Al final vas a querer probarlos todos!</font></center></p>
 
           
-         <br/> <img src= {cart} height="600px" width="600px"      alt="" /> <br/><br/>
+         <br/> <img alt="b"src= {cart} height="600px" width="600px"  /> <br/><br/>
          
          <h5 className="ph"class="card-title display-3 fw-bolder mb-0"><center><font color="white">Servicio a domicilio, ¡contáctanos!</font><center/></center></h5>
          </div>
