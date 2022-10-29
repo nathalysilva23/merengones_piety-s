@@ -1,0 +1,35 @@
+.cardm:hover {
+  box-shadow: 5px 10px 20px 1px rgb(252, 251, 251) !important;
+  transition: all 0.7s linear;
+}
+
+.cardm-body {
+  padding: 2rem 0 !important;
+
+ 
+}
+
+.cardm-text {
+  padding: 0.3rem 1rem;
+  font-size: 1rem;
+ 
+}
+
+.overflow {
+  overflow: hidden;
+}
+
+.cardm-img-top {
+  transform: scale(1);
+  transition: all 0.2s ease-in-out;
+  max-width:300px;
+  margin-bottom: 30px;
+  max-height:300px;
+  width:300px;
+
+
+
+
+
+}
+

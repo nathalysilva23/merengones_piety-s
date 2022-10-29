@@ -1,0 +1,11 @@
+body {
+  height: 1050px;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/002/300/224/non_2x/abstract-pastel-red-gradient-background-concept-for-your-graphic-colorful-design-vector.jpg");
+background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+
