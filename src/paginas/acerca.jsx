@@ -5,15 +5,15 @@ const Redes = () => {
   const facebook="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png"
 
   const whatsapp="https://es.logodownload.org/wp-content/uploads/2018/10/whatsapp-logo-11.png"
-  const mere="https://scontent.fpso1-1.fna.fbcdn.net/v/t1.6435-9/157307340_215565006921672_7858873447705534906_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=5GbclJ4gbR4AX8Qwox-&_nc_ht=scontent.fpso1-1.fna&oh=00_AfCfHP9x7GQHCvrem96JgdlfMWq0t2s82eV90jGJTqgEZg&oe=63834B74"
+  const mere="https://i.pinimg.com/originals/a5/fa/6e/a5fa6e1127a3fef4b7654c98b1090697.png"
   
   return (
       <div className="imagenh">
-         <br/> 
-         <br/> 
-         <h5 className="ph"class="card-title display-3 fw-bolder mb-0"><center><font color="white">Contáctanos a través de nuestras redes sociales</font><center/></center></h5>
 
- <br/> 
+         <br/> 
+         
+
+ <br/>  <h12 className="x">Contáctanos a través de nuestras redes sociales</h12>
          <br/> 
 
 
@@ -27,10 +27,9 @@ const Redes = () => {
       <br/> <br/>
       <p class="card-text lead fs-2"> <center><font color="white">¡¡Siguénos y apoya nuestro emprendimiento!!</font></center></p>
 
-      <br/> 
          
-      <div className="imagen1">
-        <img alt="o" src={mere} height="250px" width="250px"/>
+      <div className="imagen123456">
+        <img alt="o" src={mere} height="300px" width="250px"/>
       </div>
   </div>
   );
